@@ -19,7 +19,7 @@ const verifyWallet = new Wallet(publicKey, privateKey)
 const tx: Transaction = {
   TransactionType: 'Payment',
   Account: address,
-  Destination: 'rQ3PTWGLCbPz8ZCicV5tCX3xuymojTng5r',
+  Destination: 'rJa4ZFDE1eYNDdUcrmv7QdSY3WYzMVQHxL',
   Amount: '20000000',
   Sequence: 1,
   Fee: '12',
